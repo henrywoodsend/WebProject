@@ -6,5 +6,7 @@ public class HelloWorld {
 		
 		System.out.println("Add now, hello universe");
 		
+		System.out.println("Updated in GitHub!");
+		
 	}
 }
